@@ -97,7 +97,7 @@ Inside the file, type (example):
 
 ```
 Student ID: 110123456
-Name: Your Full Name
+Name: 葉逢森
 ```
 
 Save:
